@@ -1,4 +1,4 @@
-# ![Imagem Alura]("./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/one.png")
+<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/one.png">
 
 # Portifólio
 
