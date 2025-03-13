@@ -2,7 +2,7 @@
 
 # Portifólio
 
-### *Olá me chamo paulo e seja bem vindo ao meu projeto portifólio.*
+### *Olá me chamo Paulo,seja bem vindo ao meu projeto portifólio.*
 **Este repositório abriga um projeto elaborado ao longo dos cursos de HTML e CSS oferecidos pela [Alura](https://www.alura.com.br/?srsltid=AfmBOopyc2qlYjKJS0pQm_TuhIkC9xkFm3xAqR5o_4WEmwovAgb8KVPZ) em colaboração com a [Oracle](https://www.oracle.com/br/education/oracle-next-education/), dentro do programa ONE - Oracle Next Education.
 O objetivo do projeto é desenvolver um portfólio pessoal ilustrativo, servindo como prática para os conhecimentos adquiridos, incluindo a estruturação de páginas,
 aplicação de estilos com CSS, design responsivo e publicação na web.**
@@ -24,7 +24,7 @@ aplicação de estilos com CSS, design responsivo e publicação na web.**
  - ### [Linkedin](https://www.linkedin.com/in/paulo-henrique-rosa-dev/)
 
 
-## Cursos do Projeto
+## 💻 Cursos do Projeto
 ✅ **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**
 <br>
 ✅ **HTML e CSS: Classes, posicionamento e Flexbox**
