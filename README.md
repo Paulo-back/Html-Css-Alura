@@ -1,4 +1,4 @@
-<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/oracle-fundo-azul_page-0001.jpg">
+# ![Imagem Alura]("./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/one.png")
 
 # Portifólio
 
@@ -12,6 +12,7 @@ aplicação de estilos com CSS, design responsivo e publicação na web.**
 <img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-13 191603.png">
 <img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-13 192729.png">
 <img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-12 174021.png">
+
 
 ## Ferramentas utilizadas:
 - HTML5 - Estruturação do conteúdo.
