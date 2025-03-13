@@ -1,4 +1,4 @@
-<img src="https://example.com/seu-fundo.jpg" width="100%" height="auto">
+<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/oracle-fundo-azul_page-0001.jpg" width="100%" height="auto">
 
 # Portifólio
 
@@ -9,9 +9,9 @@ aplicação de estilos com CSS, design responsivo e publicação na web.**
 
 
 
-<img src="assets/Captura de tela 2025-02-15 133237.png">
-<img src="assets/Captura de tela 2025-02-15 133237.png">
-<img src="assets/Captura de tela 2025-02-15 133237.png">
+<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-12 174003.png">
+<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-12 174012.png">
+<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-12 174021.png">
 
 ## Ferramentas utilizadas:
 - HTML5 - Estruturação do conteúdo.
