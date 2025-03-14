@@ -1,4 +1,4 @@
-<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/one.png">
+<img src="./captura-front/one.png">
 
 # Portifólio
 
@@ -7,11 +7,11 @@
 O objetivo do projeto é desenvolver um portfólio pessoal ilustrativo, servindo como prática para os conhecimentos adquiridos, incluindo a estruturação de páginas,
 aplicação de estilos com CSS, design responsivo e publicação na web.**
 
+- [Acesse o Projeto](https://html-css-alura-git-main-paulo-backs-projects.vercel.app/)
 
-
-<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-13 191603.png">
-<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-13 192729.png">
-<img src="./Portifolio-HTML-e-CSS-Curso2-aula_1/captura-front/Captura de tela 2025-03-12 174021.png">
+<img src="./captura-front/Captura de tela 2025-03-13 191603.png">
+<img src="./captura-front/Captura de tela 2025-03-13 192729.png">
+<img src="./captura-front/Captura de tela 2025-03-12 174021.png">
 
 
 ## Ferramentas utilizadas:
