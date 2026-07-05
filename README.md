@@ -1,5 +1,3 @@
-<img src="./captura-front/capa.png">
-
 # Portfólio — Paulo Henrique Rosa
 
 ### *Olá, me chamo Paulo. Seja bem-vindo ao meu portfólio pessoal.*
